@@ -1,11 +1,83 @@
 [
   {
-      "name":"Module 5",
-      "description":"",
-    "author" : "Gopika S",
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "maths" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/MATHS/maths_syllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "pom" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/POM/pomsyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "amp" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/AMP/ampsyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "dms" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/DBMS/dbmssyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "dsp" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/DSP/dspsyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "os" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/OS/ossyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "databaselab" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/DATABSELAB/dbmslabsyllabus.pdf"
+   },{
+      "name":" Syllabus",
+      "description":" s5 Syllabus ",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "mplab" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/MPLAB/mplabsyllabus.pdf"
+   },{
+      "name":"  Module 1 ",
+      "description":"  8086 Architecture ",
+    "author" : "nil",
       "type" : "Powerpoint Presentation",
-      "subject" : "oop" ,
-      "date" : "27th April 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/module%205.pptx"
+      "subject" : "amp" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/MPLAB/MODULE%201.ppt"
+   },{
+      "name":"  Module 1 ",
+      "description":" MANAGEMENT CONCEPTS ",
+    "author" : "nil",
+      "type" : "pdf",
+      "subject" : "pom" ,
+      "date" : "14th June 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/POM/POM%20-%20Module%201%20-%20Management.pdf"
    }
 ]

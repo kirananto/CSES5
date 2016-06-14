@@ -45,7 +45,7 @@ Then Do the following changes to your repository to add stuffs to the app.
               amp  -  Advanced Microprocessors and peripherals
               dms     -  Database Management Systems
               dsp   -  Digital Signal Processing
-              op     -  Operating Systems
+              os     -  Operating Systems
               databaselab     -  Databse Lab
 	      mplab - Hardware and Microprocessors Lab
               qp      -  Question Papers
