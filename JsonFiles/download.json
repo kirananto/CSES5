@@ -1,5 +1,13 @@
 [
   {
+      "name":" Hex COde",
+      "description":" AMP",
+    "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "amp" ,
+      "date" : "17th August 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/AMP/hex%20code.pdf"
+   },{
       "name":" Syllabus",
       "description":" s5 Syllabus ",
     "author" : "nil",
