@@ -1,5 +1,13 @@
 [
   {
+      "name":" Module 1",
+      "description":" DBMS MODULE 1 ppt",
+    "author" : "Diya Thomas",
+      "type" : "ppt",
+      "subject" : "dms" ,
+      "date" : "17th August 2016",
+      "download":"https://github.com/kirananto/CSES5/raw/master/Downloads/DBMS/DBMS-1.ppt"
+   },{
       "name":" Hex COde",
       "description":" AMP",
     "author" : "nil",
